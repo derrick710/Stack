@@ -5,6 +5,7 @@
 Welcome to the world of Stack Master, a thrilling and addictive desktop game that challenges your reflexes and strategic thinking! Prepare for an exhilarating journey where your goal is to build the tallest tower possible by stacking colorful blocks on top of each other. With its vibrant visuals, dynamic gameplay, and endless levels, Stack Master guarantees hours of entertainment and a test of your skills!
 
 
+
 ## Features
 
 🏗️ **Build Towers:** Carefully place each block on top of the previous one to build a towering masterpiece. The higher your tower, the more points you earn!
@@ -29,4 +30,6 @@ Welcome to the world of Stack Master, a thrilling and addictive desktop game tha
 
 ## Demo Video
 
-Check out the gameplay in action by watching our [Stack Master Demo Video](demo.mp4).
+Check out the gameplay in action by watching our Stack Master Demo Video:
+
+[![Stack Master Demo Video](https://img.youtube.com/vi/CmkvT3BUsb0/0.jpg)](https://youtu.be/CmkvT3BUsb0)
